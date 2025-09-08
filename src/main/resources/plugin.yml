@@ -1,0 +1,7 @@
+name: KingTests
+version: '1.0-SNAPSHOT'
+main: org.ReverseHoney.kingTests.KingTests
+api-version: '1.21'
+commands:
+  KingShop:
+    permission: kingplayer
